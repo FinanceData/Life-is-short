@@ -1,6 +1,4 @@
-# PyCon KR 2018 "Life is short, Python instead of Excel"
-> ⼈⽣苦短, 使⽤ Python
-
+# "Life is short, use Python instead of Excel"
 PyCon KR 2018 Presentation materials
 
 # PyCon KR 2018 "인생을 짧아요, 엑셀대신 파이썬"
@@ -41,5 +39,6 @@ The tutorial presentation was video-taped; the video is available [here](https:/
 * PyCon Korea 프로그램 안내 : https://www.pycon.kr/2018/program/schedule/
 * PyCon Korea Youtube : https://www.youtube.com/channel/UC26x6D5xpKx6io4ShfXa_Ow
 
+> ⼈⽣苦短, 使⽤ Python
 
 #### 2018 [FinanceData.KR](http://financedata.kr)
