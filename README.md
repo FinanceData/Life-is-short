@@ -34,12 +34,12 @@ The video is available [here](https://youtu.be/w7Q_eKN5r-I).
 [(주피터 노트북)](http://nbviewer.jupyter.org/8b14a20e080797d2278d1f2e6a9cf13f)
 
 
-## xlsx files
+## xlsx files (예제 파일)
 * [https://github.com/FinanceData/Life-is-short/tree/master/xlsx]()
 
 
 ## PyCon Korea 2018
-* PyCon Korea 프로그램 안내 : [](https://www.pycon.kr/2018/program/schedule)
-* PyCon Korea Youtube : [](https://www.youtube.com/channel/UC26x6D5xpKx6io4ShfXa_Ow)
+* PyCon Korea 프로그램 안내 : https://www.pycon.kr/2018/program/schedule
+* PyCon Korea Youtube : https://www.youtube.com/channel/UC26x6D5xpKx6io4ShfXa_Ow
 
 #### 2018 [FinanceData.KR](http://financedata.kr)
